@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TruthZ33k3r's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/truthz33k3r/truthz33k3r.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
